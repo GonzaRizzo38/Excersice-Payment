@@ -1,5 +1,5 @@
-# Excersice-Payment
-Excesrice Payment with txt input
+# Exercise-Payment
+Exercise Payment with txt input
 
 To excecute the programme just excute it on the console with the hour.txt file in the same folder as the source code.
 The format of the hour.txt file is the following.
